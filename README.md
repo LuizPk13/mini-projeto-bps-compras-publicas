@@ -1,7 +1,7 @@
 # Dashboard de Compras Públicas de Saúde (BPS 2020-2026)
 
 **Autor:** Luiz Fernando de Jesus Silva Homem
-**Turma: Turma 2 - Modulo 2**
+**Turma: 2**
 **Módulo 2 - Semana 07 - Mini-Projeto Avaliativo**
 
 ## Sobre o projeto
